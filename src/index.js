@@ -1,3 +1,5 @@
+import { koalas } from './koalas.js' 
+
 
 let activeKoala = null
 
